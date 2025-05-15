@@ -76,7 +76,7 @@ Non-Blocking + Asynchronous -> 최신 웹서버, 리액티브 프로그래밍에
 
 
 
-## 5. cpu-스케줄러
+## 6. cpu-스케줄러
 - FCFS, SJF, RR 등 알고리즘 비교
 
 ## 7. 가상-메모리
